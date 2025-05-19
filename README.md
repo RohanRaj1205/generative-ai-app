@@ -1,1 +1,1 @@
-# generative-ai-app
+My first generative AI app
